@@ -45,7 +45,7 @@ Built an automated lead screening workflow using:
 
 When a new lead is received, the system analyzes the submission and returns structured outputs that help staff take the next step quickly.
 
-<img src="assets/results-sheet.jpeg" width="1000">
+<img src="assets/results-sheet1.jpeg" width="1000">
 
 ---
 
