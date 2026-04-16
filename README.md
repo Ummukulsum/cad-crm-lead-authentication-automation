@@ -19,6 +19,8 @@ This project was built to improve inbound lead handling by reducing time spent r
 
 It combines workflow automation with AI classification to support day-to-day sales and admin operations.
 
+Full database not shown to adhere to company's policy regarding data breach.
+
 ---
 
 ## Business Problem
