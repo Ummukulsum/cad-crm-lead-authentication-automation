@@ -43,9 +43,13 @@ Built an automated lead screening workflow using:
 
 When a new lead is received, the system analyzes the submission and returns structured outputs that help staff take the next step quickly.
 
+<img src="assets/results-sheet.jpg" width="1000">
+
 ---
 
 ## Workflow Architecture
+
+<img src="assets/workflow-overview.jpg" width="1000">
 
 ```text
 Lead Form Submission
